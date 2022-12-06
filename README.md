@@ -48,8 +48,6 @@ My experience covers various fields, from the assistance of a specialist in a ba
 
 <h3>🔗 Link to my Linkedin profile: https://www.linkedin.com/in/karolina-ferdek-8b05291a3</h3>
 
-
-
 <h1>💻 My projects:</h1>
 
 <h2>Links to test cases</h2>
@@ -70,5 +68,6 @@ My experience covers various fields, from the assistance of a specialist in a ba
 
 1. https://magenta-baklava-e0a89a.netlify.app/
 
-Feel free to contact me. 
+<h3>Feel free to contact me<h3>
+  
 📨 ferdek.karolina@gmail.com
