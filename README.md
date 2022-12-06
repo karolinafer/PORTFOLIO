@@ -35,6 +35,7 @@ My experience covers various fields, from the assistance of a specialist in a ba
 <h2>🎯 Courses and trainings</h2>
 
 - Dare IT Challenge "Zostań Testerem Manualnym"
+- kursySQL.pl "SQL w 120 minut"
 - HTML/CSS Marathon from GoIT (6-days)
 - itMatch IT Recruitment
 
@@ -67,6 +68,11 @@ My experience covers various fields, from the assistance of a specialist in a ba
 <h2>GoIT Marathon CV</h2>
 
 1. https://magenta-baklava-e0a89a.netlify.app/
+
+<h2>Link to SQL tasks</h2>
+
+1. https://github.com/karolinafer/challenge_portfolio_Karolina/blob/main/README.md#subtask-3---kilka-zada%C5%84-na-rozgrzewk%C4%99
+2. https://github.com/karolinafer/challenge_portfolio_Karolina/blob/main/README.md#subtask-1---kr%C3%B3tki-kurs-podstaw-sql-1
 
 <h3>Feel free to contact me<h3>
   
