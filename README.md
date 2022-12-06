@@ -69,3 +69,6 @@ My experience covers various fields, from the assistance of a specialist in a ba
 <h2>GoIT Marathon CV</h2>
 
 1. https://magenta-baklava-e0a89a.netlify.app/
+
+Feel free to contact me. 
+📨 ferdek.karolina@gmail.com
